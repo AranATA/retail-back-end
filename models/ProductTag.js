@@ -13,6 +13,7 @@ ProductTag.init(
       primaryKey: true,
       autoIncrement: true
     },
+    // Store a reference of the `id` of the `Product` to be asscociated with 'Tag'
     product_id: {
       type: DataTypes.INTEGER,
       references: {
@@ -20,7 +21,8 @@ ProductTag.init(
         key: 'id',
         unique: false
       },
-    },  
+    },
+       // Store a reference of the `id` of the `Tag` to be asscociated with 'Product'
     tag_id: {
       type: DataTypes.INTEGER,
       references: {

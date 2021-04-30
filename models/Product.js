@@ -35,6 +35,7 @@ Product.init(
         isNumeric: true
       }
     },
+     // Store a reference of the `id` of the `Category` that has this Product
     category_id: {
       type: DataTypes.INTEGER,
       primaryKey: true,
