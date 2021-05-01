@@ -119,8 +119,8 @@ router.delete('/:id', async (req, res) => {
         id: req.params.id,
       },
     });
-
-    if (!productData) {
+ // [0] ensures that we do not receive an array with nothing in it!
+    if (!productData[0]) {
       res.status(404).json({ message: 'No product found with that id!' });
       return;
     }
