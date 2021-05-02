@@ -1,9 +1,9 @@
 <br>
 
-## **retail backend**<br>
+## **retail back end**<br>
 <br>
 
-[https://github.com/AranATA/retail-backend](https://github.com/AranATA/retail-backend)<br>
+[https://github.com/AranATA/retail-back-end](https://github.com/AranATA/retail-back-end)<br>
 <br>
 <br>
 
@@ -34,7 +34,7 @@ The codebase achieves the following criteria:<br>
 
 ***
 
-Under the link below you will find a walkthrough video that has the following criteria;<br>
+Under the two links below you will find the walkthrough videos that has the following criteria;<br>
 
 * Shows all of the technical acceptance criteria being met.<br>
 * Demonstrates how to create the schema from the MySQL shell.<br>
@@ -46,25 +46,22 @@ Under the link below you will find a walkthrough video that has the following cr
 
 If the video appears out of focus please hit the space bar twice.
 
-[https://drive.google.com/file/d/1RJl4hiV1N2NAj54aiJzsfiLY-gF4zjpT/view](https://drive.google.com/file/d/1RJl4hiV1N2NAj54aiJzsfiLY-gF4zjpT/view)
+VIDEO 1:
+<br>
+
+[https://drive.google.com/file/d/1lIERKFcOh0hbhXInEGvr7Ta6EY4wddZo/view](https://drive.google.com/file/d/1lIERKFcOh0hbhXInEGvr7Ta6EY4wddZo/view)
+
 <br>
 <br>
 
-Several screenshots that show the different prompts and displayed data:<br>
-<br
-
-![alt text](/assets/images/scrshot01.png)
-
+VIDEO 2:
 <br>
 
-![alt text](/assets/images/scrshot02.png)
-
-<br>
-
-![alt text](/assets/images/scrshot03.png)
+[https://drive.google.com/file/d/12kZqDv6cr9-nww3RkxMhyj1Rahxdy_Ko/view](https://drive.google.com/file/d/12kZqDv6cr9-nww3RkxMhyj1Rahxdy_Ko/view)
 
 <br>
 <br>
+
 ## some valuable references
 
 ***
@@ -78,9 +75,11 @@ These notes and links are listing some valuable references among others that I u
 
 [https://sqlbolt.com/](https://sqlbolt.com/)
 
-[https://www.sqlteaching.com/](https://www.sqlteaching.com/)
+[https://sequelize.org/master/manual/](https://sequelize.org/master/manual/)
 
-[https://www.npmjs.com/package/console.table](https://www.npmjs.com/package/console.table)
+[https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/)
+
+[https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
 [https://shields.io/category/dependencies/](https://shields.io/category/dependencies/)
 
@@ -115,8 +114,8 @@ ghibli.github@gmail.com
 
 ***
 
-![GitHub all releases](https://img.shields.io/github/downloads/AranATA/accessible-horiseon/total)
+![GitHub all releases](https://img.shields.io/github/downloads/AranATA/retail-back-end/total)
 
-![GitHub language count](https://img.shields.io/github/languages/count/AranATA/retail-backend)
+![GitHub language count](https://img.shields.io/github/languages/count/AranATA/retail-back-end)
 <br>
 <br>
